@@ -1,0 +1,8 @@
+routes = [
+  "https://www.renteza.com/images/*"
+]
+
+name = "imfx"
+main = "src/index.js"
+compatibility_date = "2025-07-18"
+workers_dev = true
